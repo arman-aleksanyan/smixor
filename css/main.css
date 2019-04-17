@@ -3249,6 +3249,9 @@ section.great-solutions {
     color: #ffffff; }
 
 section.team-experts {
+    section.team-experts .team-experts-left h3{
+    font-size: 35px;
+  }
   position: relative;
   top: -100px; }
   section.team-experts .team-experts-left, section.team-experts .team-experts-middle, section.team-experts .team-experts-right {
