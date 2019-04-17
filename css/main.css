@@ -3037,8 +3037,6 @@ nav {
     left: 0;
     right: 0;
     background-color: transparent;
-    -webkit-transition: all 1s ease;
-    transition: all 1s ease;
     padding-left: 0;
     padding-right: 0; }
     nav.navbar .navbar-toggler .toggle {
