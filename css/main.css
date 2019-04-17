@@ -3805,6 +3805,8 @@ section.main-terms {
     font-size: 80px; }
   section.great-solutions p {
     max-width: 100%; }
+  section.team-experts .team-experts-left h3 {
+    font-size: 35px; }
   section.team-experts .team-experts-left, section.team-experts .team-experts-middle, section.team-experts .team-experts-right {
     width: 100%;
     margin: 0 auto;
